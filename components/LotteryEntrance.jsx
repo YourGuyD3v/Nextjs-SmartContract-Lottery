@@ -79,7 +79,7 @@ async function updateUI() {
 
   return (
     <div className="p-5">
-      <h1 className="py-4 px-4 font-bold text-3xl">Lottery</h1>
+      <h1 className="py-4 px-4 font-bold text-3xl">Hi from lottery entrance!</h1>
       {raffleAddress ? (
       <div>
       <button 
