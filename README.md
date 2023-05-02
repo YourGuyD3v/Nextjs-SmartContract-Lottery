@@ -1,6 +1,6 @@
 # NextJS Smartcontract Lottery (Raffle)
 
-[Example App here!](https://fancy-dream-3458.on.fleek.co/)
+[Example App here!](https://spring-glade-7269.on.fleek.co/)
 [Example App on IPFS here!](ipfs://QmUeqCbgSrfmHgnTGWgmPwxMif1qVDxQt3EGkzjL9ADQXa)
 
 Built with ❤️ using:
